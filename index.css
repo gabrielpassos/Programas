@@ -1,0 +1,14 @@
+h1#Teste{
+  text-align: center;
+  color:#FF0000;
+}
+
+h1#Lista{
+  text-shadow: left;
+  color:#FF6666;
+}
+
+li{
+  text-transform: capitalize;
+  color: green;
+}
